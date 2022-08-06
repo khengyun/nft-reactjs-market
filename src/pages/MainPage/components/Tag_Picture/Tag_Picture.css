@@ -1,0 +1,93 @@
+.image-1-icon {
+  border-radius: 4.89px;
+  width: 357.28px;
+  height: 370.24px;
+  object-fit: cover;
+}
+.hue-viet-nam {
+  margin-top: 5px;
+  font-size: 14px;
+  display: inline-block;
+  font-family: Space Grotesk;
+  padding-left: 5px;
+}
+.ellipse-icon {
+  width: 29px;
+  height: 28px;
+  margin-left: -10px;
+}
+
+.current-bid-div1 {
+  top: 449px;
+  left: 170px;
+  color: #545c71;
+}
+.authors-div,
+.current-bid-div1,
+.ending-in-div,
+.h-43m-26s {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.ending-in-div {
+  top: 449px;
+  left: 353px;
+  color: #545c71;
+}
+.authors-div,
+.h-43m-26s {
+  top: 463px;
+  left: 43px;
+  font-size: 10px;
+}
+.authors-div,
+.h-43m-26s {
+  left: 170px;
+}
+.h-43m-26s {
+  left: 331px;
+}
+
+
+.frame-div {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  top: 125px;
+  left: 551px;
+  border-radius: 10px;
+  background-color: #30384d;
+  width: 404px;
+  height: 494px;
+  overflow: hidden;
+  font-size: 8px;
+  font-family: DM Mono;
+}
+.detail {
+  width: 100%;
+  height: auto;
+}
+.picture_and_detail {
+  width: auto;
+  margin-top: 26px;
+  margin-bottom: 15px;
+}
+.name_and_users {
+  display: flex;
+  justify-content: space-between;
+  height: 28px;
+  align-content: center;
+  margin-top: 3px;
+}
+.list-user-image-in-most-popular {
+  width: 100px;
+  display: inline;
+}
+.selfprice-action-most-popular {
+  margin-top: 20px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+}

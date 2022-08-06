@@ -1,0 +1,45 @@
+.selfprice-block{
+    
+
+    width: 90px;
+    height: auto;
+    justify-content:  center;
+
+}
+.current-bid-div {
+    color: #545c71;
+    width: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.eth-div{
+    display: flex;
+    justify-content: center;
+
+    font-size: 10px;
+    margin-top: 2px;
+    font-weight: 500;
+    width: auto;
+}
+.ellipse-icon5 {
+   
+    display: flex;
+    justify-content: center;
+    width: 8px;
+    height: 8px;
+    margin-top: 2px;
+    margin-right: 3px;
+    
+  }
+  .eth-icon{
+    display: flex;
+    justify-content: center;
+    width: 8px;
+  }
+  .vector-icon {
+   
+    margin-top: 2.5px;
+    max-width: 100%;
+    max-height: 100%;
+  }

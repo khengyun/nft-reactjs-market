@@ -1,0 +1,676 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.be-an-nft-creator,
+.nft-creators-div {
+  position: absolute;
+  top: 55px;
+  left: 420px;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: DM Mono;
+  background: linear-gradient(180deg, #b469d8, rgba(180, 105, 216, 0));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+}
+.nft-creators-div {
+  top: 650px;
+  left: 447px;
+}
+.create-sell-your-nfts,
+.top-creators-of-the-week {
+  position: absolute;
+  top: 108px;
+  left: 317px;
+  font-size: 36px;
+  font-weight: 500;
+  display: inline-block;
+}
+.top-creators-of-the-week {
+  top: 691px;
+  left: 295px;
+}
+.image-removebg-preview-14-1 {
+  position: absolute;
+  top: 33px;
+  left: 91px;
+  width: 105.18px;
+  height: 72px;
+  object-fit: cover;
+}
+.create-artwork-div,
+.create-your-collection-add-so {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.create-artwork-div {
+  top: 122px;
+  left: 81px;
+  font-size: 15px;
+  font-family: DM Mono;
+}
+.create-your-collection-add-so {
+  top: 156px;
+  left: 63px;
+}
+.links-profile-banner-images,
+.set-a-secondary-sales-fee {
+  position: absolute;
+  top: 171px;
+  left: 62px;
+  font-weight: 500;
+  display: inline-block;
+}
+.set-a-secondary-sales-fee {
+  top: 186px;
+  left: 82px;
+}
+.frame-div {
+  position: absolute;
+  top: 208px;
+  left: 60px;
+  border-radius: 5px;
+  background-color: #30384d;
+  width: 287px;
+  height: 259px;
+  overflow: hidden;
+  font-size: 10px;
+}
+.create-now-b {
+  position: absolute;
+  top: 8px;
+  left: 30px;
+  font-size: 15px;
+  display: inline-block;
+  font-family: Space Grotesk;
+  color: #e5e5e5;
+  text-align: left;
+}
+.frame-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 522px;
+  left: 360px;
+  border-radius: 5px;
+  background: linear-gradient(
+    85.76deg,
+    rgba(191, 196, 238, 0.09) 15.52%,
+    #c367e6 58.75%,
+    rgba(190, 206, 239, 0)
+  );
+  width: 142px;
+  height: 39px;
+  overflow: hidden;
+}
+.watch-video-b {
+  position: absolute;
+  top: 8px;
+  left: 26px;
+  font-size: 15px;
+  display: inline-block;
+  font-family: Space Grotesk;
+  color: #e5e5e5;
+  text-align: left;
+}
+.frame-button1 {
+  cursor: pointer;
+  border: 1px solid #fff;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 522px;
+  left: 512px;
+  border-radius: 5px;
+  box-sizing: border-box;
+  width: 142px;
+  height: 39px;
+  overflow: hidden;
+}
+.upload-your-work-customize-yo {
+  position: absolute;
+  top: 156px;
+  left: 62px;
+  font-weight: 500;
+  display: inline-block;
+}
+.nfts-with-properties-stats-a,
+.unlockable-content-div,
+.upload-div {
+  position: absolute;
+  top: 171px;
+  left: 68px;
+  font-weight: 500;
+  display: inline-block;
+}
+.unlockable-content-div,
+.upload-div {
+  top: 186px;
+  left: 95px;
+}
+.upload-div {
+  top: 122px;
+  left: 117px;
+  font-size: 15px;
+  font-family: DM Mono;
+}
+.frame-div1 {
+  position: absolute;
+  top: 208px;
+  left: 366px;
+  border-radius: 5px;
+  background-color: #30384d;
+  width: 288px;
+  height: 259px;
+  overflow: hidden;
+  font-size: 10px;
+}
+.listing-div,
+.set-up-and-choose-between {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.listing-div {
+  top: 122px;
+  left: 113px;
+  font-size: 15px;
+  font-family: DM Mono;
+}
+.set-up-and-choose-between {
+  top: 156px;
+  left: 76px;
+}
+.auction-fixed-price-listings,
+.declining-price-listings-div {
+  position: absolute;
+  top: 171px;
+  left: 66px;
+  font-weight: 500;
+  display: inline-block;
+}
+.declining-price-listings-div {
+  top: 186px;
+  left: 88px;
+}
+.frame-div2 {
+  position: absolute;
+  top: 208px;
+  left: 670px;
+  border-radius: 5px;
+  background-color: #30384d;
+  width: 288px;
+  height: 259px;
+  overflow: hidden;
+  font-size: 10px;
+}
+.vector-textarea {
+  border: 0.8px solid #9d642d;
+  background-color: transparent;
+  position: absolute;
+  top: 190.6px;
+  left: 3.1px;
+  box-sizing: border-box;
+  width: 178.3px;
+  height: 172.72px;
+}
+.image-3-icon {
+  position: absolute;
+  top: 9px;
+  left: 9px;
+  border-radius: 5px;
+  width: 70px;
+  height: 45.21px;
+  object-fit: cover;
+}
+.quynh-anh-div {
+  position: absolute;
+  top: 21px;
+  left: 86px;
+  font-weight: 500;
+  display: inline-block;
+}
+.ellipse-icon {
+  position: absolute;
+  top: 36px;
+  left: 86px;
+  width: 8px;
+  height: 8px;
+  object-fit: cover;
+}
+.eth-div {
+  position: absolute;
+  top: 35px;
+  left: 96px;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-div3 {
+  position: absolute;
+  top: 778px;
+  left: 60px;
+  border-radius: 5px;
+  background-color: #30384d;
+  width: 288px;
+  height: 63px;
+  overflow: hidden;
+  font-size: 8px;
+  font-family: DM Mono;
+}
+.icon {
+  position: absolute;
+  height: 7.14%;
+  width: 7.64%;
+  top: 45.96%;
+  right: 3.98%;
+  bottom: 46.9%;
+  left: 88.38%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.frame-div4,
+.frame-div5 {
+  position: absolute;
+  top: 871px;
+  left: 59px;
+  border-radius: 5px;
+  background-color: #30384d;
+  width: 288px;
+  height: 63px;
+  overflow: hidden;
+  font-size: 8px;
+  font-family: DM Mono;
+}
+.frame-div5 {
+  top: 964px;
+  left: 60px;
+}
+.icon2 {
+  position: absolute;
+  height: 7.14%;
+  width: 7.48%;
+  top: 45.96%;
+  right: 5.6%;
+  bottom: 46.9%;
+  left: 86.91%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.frame-button2,
+.frame-div6 {
+  position: absolute;
+  border-radius: 5px;
+  overflow: hidden;
+}
+.frame-div6 {
+  top: 778px;
+  left: 362px;
+  background-color: #30384d;
+  width: 294px;
+  height: 63px;
+  font-size: 8px;
+  font-family: DM Mono;
+}
+.frame-button2 {
+  cursor: pointer;
+  border: 1px solid #fff;
+  padding: 0;
+  background-color: transparent;
+  top: 1071px;
+  left: 441px;
+  box-sizing: border-box;
+  width: 142px;
+  height: 39px;
+}
+.icon3 {
+  position: absolute;
+  height: 7.14%;
+  width: 7.48%;
+  top: 45.96%;
+  right: 5.94%;
+  bottom: 46.9%;
+  left: 86.57%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.frame-div7 {
+  top: 871px;
+  left: 362px;
+  background-color: #30384d;
+  width: 294px;
+  height: 63px;
+  overflow: hidden;
+  font-size: 8px;
+  font-family: DM Mono;
+}
+.frame-div7,
+.frame-div8,
+.image-3-icon6 {
+  position: absolute;
+  border-radius: 5px;
+}
+.frame-div8 {
+  top: 964px;
+  left: 362px;
+  background-color: #30384d;
+  width: 294px;
+  height: 63px;
+  overflow: hidden;
+  font-size: 8px;
+  font-family: DM Mono;
+}
+.image-3-icon6 {
+  top: calc(50% - 22.5px);
+  left: 5px;
+  width: 78px;
+  height: 43px;
+  object-fit: cover;
+}
+.icon4 {
+  position: absolute;
+  height: 7.14%;
+  width: 7.46%;
+  top: 45.96%;
+  right: 6.26%;
+  bottom: 46.9%;
+  left: 86.28%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.frame-div10,
+.frame-div11,
+.frame-div9 {
+  position: absolute;
+  top: 778px;
+  left: 667px;
+  border-radius: 5px;
+  background-color: #30384d;
+  width: 295px;
+  height: 63px;
+  overflow: hidden;
+  font-size: 8px;
+  font-family: DM Mono;
+}
+.frame-div10,
+.frame-div11 {
+  top: 871px;
+  left: 669px;
+}
+.frame-div11 {
+  top: 964px;
+}
+.icon7,
+.icon8 {
+  position: absolute;
+  height: 0.24%;
+  width: 2.15%;
+  top: 42.73%;
+  right: 67.14%;
+  bottom: 57.04%;
+  left: 30.72%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.icon8 {
+  top: 52.4%;
+  right: 38.03%;
+  bottom: 47.36%;
+  left: 59.82%;
+}
+.join-our-community {
+  position: absolute;
+  top: 60px;
+  left: 335px;
+  font-weight: 500;
+  display: inline-block;
+}
+.meet-the-team-artists-and-col,
+.take-me-to-discord {
+  position: absolute;
+  font-size: 15px;
+  display: inline-block;
+}
+.meet-the-team-artists-and-col {
+  top: 111px;
+  left: 137px;
+  font-weight: 500;
+}
+.take-me-to-discord {
+  top: 10px;
+  left: 25px;
+  font-family: Space Grotesk;
+  color: #e5e5e5;
+  text-align: left;
+}
+.frame-button3,
+.frame-div12 {
+  position: absolute;
+  overflow: hidden;
+}
+.frame-button3 {
+  cursor: pointer;
+  border: 1px solid #fff;
+  padding: 0;
+  background-color: transparent;
+  top: 160px;
+  left: 358px;
+  border-radius: 5px;
+  background: linear-gradient(
+    85.76deg,
+    rgba(191, 196, 238, 0.09) 15.52%,
+    #c367e6 58.75%,
+    rgba(190, 206, 239, 0)
+  );
+  box-sizing: border-box;
+  width: 188px;
+  height: 39px;
+}
+.frame-div12 {
+  top: 1163px;
+  left: 60px;
+  background-color: #1e2b4b;
+  width: 904px;
+  height: 261px;
+  font-size: 24px;
+}
+.amazing-nfts-marketplace {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.digital-creation-for {
+  margin: 0;
+}
+.amazing-nfts-marketplace-auth,
+.copyright-2022-openculture-al,
+.openculture-div {
+  position: absolute;
+  top: 1649px;
+  left: 64px;
+  font-weight: 500;
+  display: inline-block;
+}
+.copyright-2022-openculture-al,
+.openculture-div {
+  top: 1783px;
+  left: 61px;
+  font-size: 14px;
+  color: #545c71;
+}
+.openculture-div {
+  top: 1589px;
+  left: 66px;
+  font-size: 40px;
+  color: #c267e4;
+}
+.ellipse-icon10,
+.ellipse-icon11,
+.ellipse-icon12,
+.ellipse-icon9 {
+  position: absolute;
+  top: 1716px;
+  left: 64px;
+  width: 32px;
+  height: 31px;
+}
+.ellipse-icon10,
+.ellipse-icon11,
+.ellipse-icon12 {
+  left: 111px;
+}
+.ellipse-icon11,
+.ellipse-icon12 {
+  left: 158px;
+}
+.ellipse-icon12 {
+  left: 205px;
+}
+.vector-icon,
+.vector-icon1,
+.vector-icon2,
+.vector-icon3 {
+  position: absolute;
+  height: 0.95%;
+  width: 1.76%;
+  top: 91.06%;
+  right: 91.31%;
+  bottom: 7.99%;
+  left: 6.93%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.vector-icon1,
+.vector-icon2,
+.vector-icon3 {
+  height: 0.79%;
+  width: 0.78%;
+  top: 91.17%;
+  right: 87.21%;
+  bottom: 8.04%;
+  left: 12.01%;
+}
+.vector-icon2,
+.vector-icon3 {
+  height: 0.74%;
+  width: 1.37%;
+  top: 91.22%;
+  right: 82.32%;
+  left: 16.31%;
+}
+.vector-icon3 {
+  height: 0.63%;
+  width: 1.66%;
+  top: 91.27%;
+  right: 77.54%;
+  bottom: 8.1%;
+  left: 20.8%;
+}
+.marketplace-b,
+.resources-b {
+  position: absolute;
+  top: 1602px;
+  left: 521px;
+  font-size: 20px;
+  display: inline-block;
+}
+.resources-b {
+  left: 694px;
+}
+.privacy-policy-div {
+  top: 1783px;
+  left: 701px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #545c71;
+}
+.company-b,
+.privacy-policy-div,
+.terms-conditions {
+  position: absolute;
+  display: inline-block;
+}
+.terms-conditions {
+  top: 1783px;
+  left: 827px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #545c71;
+}
+.company-b {
+  top: 1602px;
+  left: 865px;
+  font-size: 20px;
+}
+.about-us-div,
+.explore-div,
+.help-center-div {
+  position: absolute;
+  top: 1635px;
+  left: 523px;
+  display: inline-block;
+}
+.about-us-div,
+.help-center-div {
+  left: 699px;
+}
+.about-us-div {
+  left: 875px;
+}
+.careers-div,
+.collectibles-div,
+.nfts-div,
+.partners-div {
+  position: absolute;
+  top: 1663px;
+  left: 523px;
+  display: inline-block;
+}
+.careers-div,
+.collectibles-div,
+.partners-div {
+  left: 712px;
+}
+.careers-div,
+.collectibles-div {
+  left: 881px;
+}
+.collectibles-div {
+  top: 1690px;
+  left: 523px;
+}
+.blog-div,
+.newsletter-div,
+.newsletter-div1,
+.support-div {
+  position: absolute;
+  top: 1690px;
+  left: 727px;
+  display: inline-block;
+}
+.newsletter-div,
+.newsletter-div1,
+.support-div {
+  left: 879px;
+}
+.newsletter-div,
+.newsletter-div1 {
+  top: 1716px;
+  left: 703px;
+}
+.newsletter-div1 {
+  left: 869px;
+}
+.desktop-2 {
+  position: relative;
+  background-color: #1c233d;
+  width: 100%;
+  height: 1891px;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: Space Grotesk;
+}

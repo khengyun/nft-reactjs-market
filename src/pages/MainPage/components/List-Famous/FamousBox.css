@@ -1,0 +1,143 @@
+.Famous-list-box{
+    position: absolute;
+    top: 1004px;
+    width: 100%;
+    height: auto;
+    display: grid;
+    gap:50px;
+    grid-template-columns: 281px 281px 281px;
+    padding-left: 30px;
+
+}
+.image-2-icon5 {
+    border-radius: 5.13px;
+    width: 219px;
+    height: 214px;
+    object-fit: cover;
+  }
+
+  .child_famous{
+ 
+    border-radius: 5px;
+    background-color: #30384d;
+    width: 281px;
+    height: 323px;
+    overflow: hidden;
+    font-family: DM Mono;
+  }
+
+ .detail_piture_famous{
+    width: 100%;
+    height: auto;
+ } 
+.img-famous-child{
+    width: auto;
+    height: auto;
+}
+.img-famous-child{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px ;
+}
+
+.hoi-an-viet-nam {
+  
+ 
+    font-family: Space Grotesk;
+}
+.quynh-anh-b {
+    font-size: 12px;
+  }
+  .created-by-quynh-anh {
+    
+    margin-top: 4px;
+    font-family: Space Grotesk;
+  }
+
+ .data-current-eth{
+    max-width: 100px;
+    display: inline-flex;
+    
+    flex-wrap: wrap;
+ } 
+ .image-and-create{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 32px;
+    margin-top: 17px;
+    width: 219px;
+ }
+ .user-avatar-famous{
+    width: auto;
+
+ }
+ .ellipse-icon6 {
+    
+    
+    width: 29px;
+    height: 28px;
+    object-fit: cover;
+  }
+
+
+  .current-timeeding-eth{
+    display: flex;
+    justify-content: space-between;
+    width: auto;
+    padding-left: 30px;
+    padding-right: 32px;
+    padding-top: 6px;
+  }
+
+  .eth-div1 {
+  margin-top: 2px;
+    top: 300px;
+    left: 37px;
+    font-weight: 500;
+
+  }
+
+  .current-bid-div2,
+  .ending-in-div1 {
+
+    font-size: 8px;
+    color: #545c71;
+    display: inline-block;
+  }
+  .ending-in-div1 {
+    top: 289px;
+    left: 200px;
+  }
+  .hoi-an-created{
+    display: inline;
+  }
+.h-43m-26s1 {
+    margin-top: 3px;
+   display: inline-block;
+    font-weight: 500;
+ 
+}
+.img-elip{
+    margin-top: 15px;
+    padding-right:2px ;
+}
+
+.ellipse-icon7 {
+   height: 8px;
+    max-width: 8px;
+    max-height: 8px;
+    padding-right: 3px;
+
+  }
+ .time-ending-stop{
+
+    max-width: 75px;
+    min-width: 70px;
+    display: inline-flex;
+    justify-content: center;
+    flex-wrap: wrap;
+ } 
+
+ .eth-crune{
+
+ }
