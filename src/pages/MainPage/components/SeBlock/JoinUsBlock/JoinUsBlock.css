@@ -1,0 +1,43 @@
+.frame-div12 {
+    margin-top: 53px;
+   
+    background-color: #1e2b4b;
+    width: 904px;
+    height: 261px;
+    font-size: 24px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.join-our-community{
+    padding-top: 60px;
+    color: #fff;
+    font-family: Space Grotesk;
+    font-weight: 500;
+    display: inline-block;
+    padding-bottom: 20px;
+}
+.meet-the-team-artists-and-col{
+    font-size: 15px;
+    font-weight: 500;
+    display: inline-block;
+    color: #fff;
+    font-family: Space Grotesk;
+}
+.frame-discord-button-join{
+  margin-top: 30px;
+    border: 1px solid #413232;
+    padding: 0;
+    background-color: transparent;
+    border-radius: 5px;
+    background: linear-gradient(85.76deg, rgba(191, 196, 238, 0.0945738) -105.02%, #C367E6 10.94%, rgba(190, 206, 239, 0) 121.57%);
+    box-sizing: border-box;
+    width: 188px;
+    height: 39px;
+    overflow: hidden;
+}
+.take-me-to-discord{
+    color: #fff;
+}

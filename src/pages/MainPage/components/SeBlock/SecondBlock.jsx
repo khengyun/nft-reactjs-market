@@ -4,6 +4,7 @@ import { ChooseBlock } from "./CreateOrSell/ChooseBlock";
 import img_Import from './../../action/img_Import';
 import { CreateOrWatch } from "./CreateNowOrWatch/CreateOrWatch";
 import { ListTopCreater } from './../TopCreater/ListTopCreater';
+import { JoinUsBlock } from "./JoinUsBlock/JoinUsBlock";
 
 const SecondBlock = () => {
 
@@ -41,6 +42,11 @@ const SecondBlock = () => {
       <div className="nft-creators-div">NFT Creators</div>
       <div className="top-creators-of-the-week">Top Creators of the week</div>
       <ListTopCreater/>
+
+      <button class="watch-video-button-out"><b class="watch-video-b-out">Watch Video</b></button>
+      
+      <JoinUsBlock/>
+      
     </div>
   );
 };

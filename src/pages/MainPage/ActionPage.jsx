@@ -151,9 +151,7 @@ const ActionPage = () => {
           <p class="amazing-nfts-marketplace">
             Amazing NFTs marketplace, Authentic and unique
           </p>
-          <p class="digital-creation-for">
-            digital creation for VietNamese Art Culture.
-          </p>
+  
         </div>
         <div class="copyright-2022-openculture-al">
           Copyright 2022 OpenCulture, All right reserved.

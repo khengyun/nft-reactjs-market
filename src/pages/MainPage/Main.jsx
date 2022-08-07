@@ -99,7 +99,7 @@ const Home = () => {
     
     {/* <ActionPage/> */}
     <SecondBlock/>
-
+    <Footer/>
 </div>
   );
 };

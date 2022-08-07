@@ -1,0 +1,136 @@
+.footer_layout {
+  width: 100%;
+  height: auto;
+  padding-top: 165px;
+  display: grid;
+  grid-template-columns: auto 455px;
+  row-gap: 33px;
+  margin-bottom: 25px;
+
+}
+.openculture-div {
+  top: 1589px;
+  left: 66px;
+  font-size: 40px;
+  color: #c267e4;
+  text-align: left;
+  font-weight: 500;
+  display: inline-block;
+  font-family: Space Grotesk;
+}
+
+.amazing-nfts-marketplace {
+  width: 381px;
+  height: 40px;
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  color: #ffffff;
+}
+
+.marketplace-b,
+.resources-b,
+.company-b {
+  width: 121px;
+  height: 26px;
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 26px;
+  color: #ffffff;
+}
+
+.explore-div,
+.collectibles-div,
+.nfts-div,
+.help-center-div ,
+.blog-div,
+.partners-div-k,
+.about-us-div,
+.careers-div,
+.support-div {
+  width: 100%;
+    text-align: start;
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  color: #ffffff;
+}
+
+.market-block,
+.resources-block,
+.company-block{
+    width: 124px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+.final-block-one{
+    width: auto;
+}
+.information-aboutus-block{
+    display: grid;
+    grid-template-columns: 124px 124px 124px;
+    column-gap: 52px;
+    max-width: 455px;
+    padding-top:13px;
+}
+.final-block-two{
+    max-width: 455px;
+}
+
+.final-block-two{
+    line-height: 100px;
+}
+
+
+.final-the-page{
+
+}
+
+.copyright-2022-openculture-al{
+    font-size: 14px;
+    color: #545c71;
+    font-weight: 500;
+    display: inline-block;
+    text-align: left;
+    font-family: Space Grotesk;
+}
+
+.privacy-policy-div,
+.terms-conditions{
+    display: inline-block;
+    top: 1783px;
+    left: 701px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #545c71;
+    font-family: Space Grotesk;
+}
+.privacy-policy-div{
+    padding-right: 35px;
+}
+.final-block{
+    text-align: end;
+    margin-right: 15px;
+    display: inline-block;
+}
+
+.final-icon-block{
+    display: grid;
+    padding-top: 12px;
+    width: 235px;
+    grid-template-columns: 32px 32px 32px 32px;
+    column-gap: 15px;
+}
+
+.ellipse-iconk{
+    width: 32px;
+}

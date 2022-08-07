@@ -69,8 +69,31 @@ font-style: normal;
 font-weight: 500;
 font-size: 36px;
 line-height: 46px;
-
 color: #FFFFFF;
+}
+.watch-video-button-out{
+
+    margin-top: 44px;
+    cursor: pointer;
+    border: 1px solid #fff;
+    background-color: transparent;
+    box-sizing: border-box;
+    width: 142px;
+    height: 39px;
+    border-radius: 5px;
+    
+}
+.watch-video-b-out{
+
+width: 91px;
+height: 19px;
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 19px;
+
+color: #E5E5E5;
 
 
 }
