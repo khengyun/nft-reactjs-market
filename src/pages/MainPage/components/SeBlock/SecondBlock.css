@@ -1,0 +1,76 @@
+.secondblock{
+    width: 100%;
+    height: auto;
+    display: inline-flex;
+    justify-items: center;
+    align-items: center;
+    flex-direction: column
+}
+
+.be-an-nft-creator{
+    
+    font-size: 18px;
+    font-weight: 500;
+    font-family: DM Mono;
+    background: linear-gradient(180deg, #b469d8, rgba(180, 105, 216, 0));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    width: auto;
+}
+.create-sell-your-nfts{
+ 
+    width: auto;
+    font-size: 36px;
+    font-weight: 500;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding-top:30px;
+
+   
+    color: #fff;
+    font-family: Space Grotesk;
+}
+
+.create-sell-block-detail{
+    display: grid;
+    width: 100%;
+    height: auto ;
+    row-gap: 54px;
+
+}
+.nft-creators-div{
+
+margin-top: 89px;
+width: 130px;
+height: 23px;
+
+font-family: 'DM Mono';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 23px;
+
+background: linear-gradient(180deg, #B469D8 0%, rgba(180, 105, 216, 0) 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+-webkit-text-fill-color: transparent;
+
+
+}
+.top-creators-of-the-week{
+margin-top:18px;
+width: 435px;
+height: 46px;
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 46px;
+
+color: #FFFFFF;
+
+
+}

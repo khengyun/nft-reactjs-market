@@ -1,10 +1,9 @@
 import React from 'react'
-import img_Import from '../pages/ActionPage/action/img_Import'
-
+import img_Import from '../pages/MainPage/action/img_Import'
 
 
 const Footer = () => {
-console.log(img_Import.images['ellipse-8.svg'])
+
   return (
     
     <div className="footer_layout">

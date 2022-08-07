@@ -1,0 +1,70 @@
+.choose-block{
+    border-radius: 5px;
+    background-color: #30384d;
+    width: 287px;
+    height: 259px;
+    overflow: hidden;
+    font-size: 10px;
+    display: inline-flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.main-image-choose-block{
+    
+    width: 105.18px;
+    height: 72px;
+    object-fit: cover;
+    padding-top: 33px;
+}
+.create-artwork-div{
+text-align: center;
+width: 126px;
+height: 20px;
+left: 81px;
+top: 122px;
+
+font-family: 'DM Mono';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height */
+color: #FFFFFF;
+
+padding-top: 17px;
+padding-bottom: 14px;
+
+}
+
+
+.create-your-collection-add-so{
+    /* Create your collection, Add social */
+
+
+width: 162px;
+height: auto;
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 13px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+/* line-height: 2px; */
+
+}
+.list-choose-blocks{
+    cursor: pointer;
+    width: 100%;
+    height: 287px;
+    display: inline-grid;
+    column-gap: 19px;
+    justify-content: space-evenly;
+    grid-template-columns: auto auto auto;
+
+}

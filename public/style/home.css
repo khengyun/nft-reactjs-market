@@ -2,15 +2,7 @@ body {
   margin: 0;
   line-height: normal;
 }
-.openculture-div {
-  position: absolute;
-  top: 18px;
-  left: 62px;
-  font-size: 25px;
-  font-weight: 500;
-  color: #c267e5;
-  display: inline-block;
-}
+
 .artist-div,
 .collection-div,
 .explore-b,
@@ -35,7 +27,7 @@ body {
   left: 528px;
 }
 
-#search-form {
+#search-formk {
   background-color: transparent;
   position: absolute;
   top: 18px;
@@ -47,7 +39,7 @@ body {
   height: 30px;
 }
 
-.frame-input {
+.frame-inputk {
   box-sizing: border-box;
   background-color: transparent;
   width: 200px;
@@ -357,26 +349,6 @@ svg {
   overflow: hidden;
   font-family: DM Mono;
 }
-.view-more-div {
-  position: absolute;
-  top: 10px;
-  left: 38px;
-  font-weight: 500;
-  display: inline-block;
-}
-.frame-div3 {
-  position: absolute;
-  top: 1775px;
-  left: 441px;
-  border-radius: 5px;
-  background-color: #30384d;
-  width: 141px;
-  height: 33px;
-  overflow: hidden;
-  cursor: pointer;
-  font-size: 12px;
-  font-family: DM Mono;
-}
 
 
 
@@ -495,7 +467,7 @@ svg {
   font-family: Space Grotesk;
 }
 
-.frame-button {
+.frame-buttonk {
   /* Frame 1 */
 
   position: absolute;

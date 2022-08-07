@@ -1,0 +1,62 @@
+.create-of-week-tag{
+width: 295px;
+height: 63px;
+display: inline-flex;
+align-items: center;
+
+background: #30384D;
+border-radius: 5px;
+
+}
+.author-icon{
+width: 70px;
+height: 45.21px;
+left: 9px;
+top: 9px;
+border-radius: 5px;
+padding-left: 9px;
+
+}
+.author-name{
+width: 44px;
+height: 10px;
+font-family: 'DM Mono';
+font-style: normal;
+font-weight: 500;
+font-size: 8px;
+line-height: 10px;
+
+color: #FFFFFF;
+
+}
+.eth-icon{
+width: 8px;
+height: 8px;
+
+}
+.eth-number{
+
+width: 63px;
+height: 10px;
+font-family: 'DM Mono';
+font-style: normal;
+font-weight: 500;
+font-size: 8px;
+line-height: 10px;
+
+color: #FFFFFF;
+}
+.detail-create-of-week{
+    width: 100%;
+    padding-left: 7px;
+}
+.eth-icon-number-week-tag{
+    display: flex;
+    padding-top: 4px;
+}
+
+.icon-more{
+
+padding-right: 15px;
+
+}

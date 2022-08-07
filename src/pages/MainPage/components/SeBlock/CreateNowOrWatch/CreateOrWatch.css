@@ -1,0 +1,65 @@
+.create-and-watch-video-button {
+  width: 100%;
+  height: auto;
+  display: grid;
+  grid-template-columns: 142px 142px;
+  justify-content: center;
+  column-gap:10px;
+}
+
+.create-now-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  border: 1px solid #000000;
+  border-radius: 5px;
+  background: linear-gradient(
+    85.76deg,
+    rgba(191, 196, 238, 0.0945738) -105.02%,
+    #c367e6 10.94%,
+    rgba(190, 206, 239, 0) 121.57%
+  );
+  width: 142px;
+  height: 39px;
+  overflow: hidden;
+}
+
+.create-now-b {
+  width: 83px;
+  height: 19px;
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 19px;
+
+  color: #E5E5E5;
+}
+
+.watch-video-button {
+    cursor: pointer;
+    border: 1px solid #fff;
+    padding: 0;
+    background-color: transparent;
+    border-radius: 5px;
+    box-sizing: border-box;
+    width: 142px;
+    height: 39px;
+    overflow: hidden;
+}
+.watch-video-b{
+
+
+width: 91px;
+height: 19px;
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 19px;
+
+color: #E5E5E5;
+
+
+}

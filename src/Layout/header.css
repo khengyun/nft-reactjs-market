@@ -1,0 +1,183 @@
+.header-tag {
+  display: grid;
+  position: absolute;
+  width: 100%;
+  height: auto;
+}
+
+.openculture2-div {
+  cursor: pointer;
+  position: absolute;
+  top: 18px;
+  left: 62px;
+  font-size: 25px;
+  font-weight: 500;
+  color: #c267e5;
+  display: inline-block;
+}
+
+.explore-b {
+  cursor: pointer;
+  position: absolute;
+  top: 25px;
+  left: 283px;
+  font-size: 14px;
+  display: inline-block;
+  color: #e5e5e5;
+}
+
+.marketplace-div {
+  cursor: pointer;
+  position: absolute;
+  top: 25px;
+  left: 283px;
+  font-size: 14px;
+  display: inline-block;
+  color: #e5e5e5;
+  left: 358px;
+}
+
+.artist-div {
+  cursor: pointer;
+  position: absolute;
+  top: 25px;
+  left: 283px;
+  font-size: 14px;
+  display: inline-block;
+  color: #e5e5e5;
+  left: 358px;
+  left: 465px;
+}
+
+.collection-div {
+  cursor: pointer;
+  position: absolute;
+  top: 25px;
+  left: 283px;
+  font-size: 14px;
+  display: inline-block;
+  color: #e5e5e5;
+  left: 358px;
+  left: 465px;
+  left: 528px;
+}
+#search-formk {
+  background-color: transparent;
+  position: absolute;
+  top: 18px;
+  left: 642px;
+  display: flex;
+  justify-content: end;
+
+  width: 200px;
+  height: 30px;
+}
+.frame-inputk {
+  box-sizing: border-box;
+  background-color: transparent;
+  width: 200px;
+  height: 30px;
+  color: white;
+  border: 1px solid #e5e5e5;
+  border-radius: 5px;
+}
+::placeholder {
+  position: absolute;
+  width: 34px;
+  height: 13px;
+  left: 7px;
+  top: 8px;
+
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 13px;
+  /* identical to box height */
+  color: #e5e5e5;
+}
+
+.search-button {
+  user-select: none;
+  border: 1.11111px solid #e5e5e5;
+  position: absolute;
+  background-color: transparent;
+  width: 35px;
+  height: 30px;
+  overflow: hidden;
+  border: none;
+  margin-top: 2px;
+}
+
+svg {
+  color: #fff;
+  fill: currentColor;
+  width: 20px;
+  height: 20px;
+}
+
+.frame-buttonk {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 18px;
+  left: 856px;
+  border-radius: 5px;
+  background: linear-gradient(
+    85.76deg,
+    rgba(191, 196, 238, 0.09) 15.52%,
+    #c367e6 58.75%,
+    rgba(190, 206, 239, 0)
+  );
+  width: 93px;
+  height: 30px;
+  overflow: hidden;
+}
+
+.frame-buttonk {
+  /* Frame 1 */
+
+  position: absolute;
+  width: 93px;
+  height: 30px;
+  left: 856px;
+  top: 18px;
+
+  background: linear-gradient(
+    85.76deg,
+    rgba(191, 196, 238, 0.0945738) -105.02%,
+    #c367e6 10.94%,
+    rgba(190, 206, 239, 0) 121.57%
+  );
+  border-radius: 5px;
+}
+.sign-in-b2 {
+  /* Sign in */
+
+  position: absolute;
+  width: 33px;
+  height: 13px;
+  left: 29px;
+  top: 8px;
+
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 13px;
+  /* identical to box height */
+
+  color: #e5e5e5;
+}
+.sign-in-b2 {
+  position: absolute;
+  top: 8px;
+  left: 29px;
+  font-size: 10px;
+  display: inline-block;
+  font-family: Space Grotesk;
+  color: #e5e5e5;
+  text-align: left;
+}

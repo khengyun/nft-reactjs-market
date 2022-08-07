@@ -1,0 +1,10 @@
+.list-top-creater{
+    width: 100%;
+    height: auto;
+    display: grid;
+    padding-top: 41px;
+    align-content: center;
+    grid-template-columns: 295px 295px 295px ;
+    column-gap: 14px;
+    justify-content: space-evenly;
+}

@@ -1,3 +1,33 @@
+.block-view-more{
+  position: absolute;
+    top: 1775px;
+  width: 100%;
+  height: auto;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.frame-div3 {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  border-radius: 5px;
+  background-color: #30384d;
+  width: 141px;
+  height: 33px;
+  overflow: hidden;
+  cursor: pointer;
+  font-size: 12px;
+  font-family: DM Mono;
+}
+
+.view-more-div{
+  height: auto;
+  display: flex;
+  align-items: center;
+}
+
 .Famous-list-box{
     position: absolute;
     top: 1004px;

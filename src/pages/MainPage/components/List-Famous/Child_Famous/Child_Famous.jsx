@@ -1,7 +1,10 @@
 import React from 'react'
 import img_Import from './../../../../MainPage/action/img_Import';
 
-export const Child_Famous = () => {
+export const Child_Famous = (props) => {
+
+  const {Pic,NamePic,AuthName,AuthAvatar,Eth,EndingTime} = props
+
   return (
     
     <div className="child_famous">

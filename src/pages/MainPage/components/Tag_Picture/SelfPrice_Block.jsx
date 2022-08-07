@@ -1,6 +1,6 @@
 import React from "react";
 import "./SelfPrice_block.css";
-import img_Import from "../../../ActionPage/action/img_Import";
+import img_Import from "../../action/img_Import";
 export const SelfPrice_Block = (props) => {
   const {Name,Value,Icons} = props
   return (
