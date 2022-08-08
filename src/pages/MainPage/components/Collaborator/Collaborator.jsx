@@ -21,6 +21,11 @@ const Collaborator = () => {
       <img
         className="image-removebg-preview-7-1"
         alt=""
+        src={img_Import.images["skyper.svg"]}
+      />
+      <img
+        className="image-removebg-preview-7-1"
+        alt=""
         src={img_Import.images["imageremovebgpreview-7-12x.png"]}
       />
     </div>

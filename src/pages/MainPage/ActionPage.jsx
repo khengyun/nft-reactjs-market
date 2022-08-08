@@ -161,10 +161,12 @@ const ActionPage = () => {
         <img class="ellipse-icon10" alt="" src="public/ellipse-8.svg" />
         <img class="ellipse-icon11" alt="" src="public/ellipse-8.svg" />
         <img class="ellipse-icon12" alt="" src="public/ellipse-8.svg" />
+
         <img class="vector-icon" alt="" src="public/vector.svg" />
         <img class="vector-icon1" alt="" src="public/vector1.svg" />
         <img class="vector-icon2" alt="" src="public/vector2.svg" />
         <img class="vector-icon3" alt="" src="public/vector3.svg" />
+        
         <b class="marketplace-b">Marketplace</b>
         <b class="resources-b">Resources</b>
         <div class="privacy-policy-div">Privacy Policy</div>

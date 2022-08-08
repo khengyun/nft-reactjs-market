@@ -12,29 +12,50 @@ const Footer = () => {
           VietNamese Art Culture.
         </p>
         <div className="final-icon-block">
-          <img
-            className="ellipse-iconk"
-            alt=""
-            src={img_Import.images["ellipse-8.svg"]}
-          />
-          <img
-            className="ellipse-iconk"
-            alt=""
-            src={img_Import.images["ellipse-8.svg"]}
-          />
-          <img
-            className="ellipse-iconk"
-            alt=""
-            src={img_Import.images["ellipse-8.svg"]}
-          />
-          <img
-            className="ellipse-iconk"
-            alt=""
-            src={img_Import.images["ellipse-8.svg"]}
-          />
 
 
-          
+          <div className="connect-icon-footer">
+            <img
+              className="ellipse-iconk"
+              alt=""
+              src={img_Import.images["ellipse-8.svg"]}
+            />
+            <img className="vector-iconkk" alt="" src={img_Import.images["phone-icon.svg"]} />
+          </div>
+
+
+
+          <div className="connect-icon-footer">
+            <img
+              className="ellipse-iconk"
+              alt=""
+              src={img_Import.images["ellipse-8.svg"]}
+            />
+            <img className="vector-iconkk " id="face-icon" alt="" src={img_Import.images["facebook-icon.svg"]} />
+          </div>
+
+
+          <div className="connect-icon-footer">
+            <img
+              className="ellipse-iconk"
+              alt=""
+              src={img_Import.images["ellipse-8.svg"]}
+            />
+            <img className="vector-iconkk" id="camera-icon" alt="" src={img_Import.images["vector2.svg"]} />
+          </div>
+
+
+
+          <div className="connect-icon-footer">
+            <img
+              className="ellipse-iconk"
+              alt=""
+              src={img_Import.images["ellipse-8.svg"]}
+            />
+            <img className="vector-iconkk" id="youtube-icon" alt="" src={img_Import.images["vector3.svg"]} />
+          </div>
+
+
 
         </div>
       </div>
@@ -68,16 +89,14 @@ const Footer = () => {
         </div>
       </div>
 
-     
-        <div className="copyright-2022-openculture-al">
-          Copyright 2022 OpenCulture, All right reserved.
-        </div>
+      <div className="copyright-2022-openculture-al">
+        Copyright 2022 OpenCulture, All right reserved.
+      </div>
 
-        <div className="final-block">
-          <div className="privacy-policy-div">Privacy Policy</div>
-          <div className="terms-conditions">Terms & Conditions</div>
-        </div>
-     
+      <div className="final-block">
+        <div className="privacy-policy-div">Privacy Policy</div>
+        <div className="terms-conditions">Terms & Conditions</div>
+      </div>
     </div>
   );
 };

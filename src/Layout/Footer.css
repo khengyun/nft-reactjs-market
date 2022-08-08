@@ -84,6 +84,7 @@
 }
 .final-block-two{
     max-width: 455px;
+    
 }
 
 .final-block-two{
@@ -102,6 +103,7 @@
     display: inline-block;
     text-align: left;
     font-family: Space Grotesk;
+    
 }
 
 .privacy-policy-div,
@@ -133,4 +135,27 @@
 
 .ellipse-iconk{
     width: 32px;
+}
+
+.connect-icon-footer{
+  width: 32px;
+  height: 31px;
+  display: inline-block;
+  
+}
+.vector-iconkk{
+  position: absolute;
+  margin-left: -24.5px;
+  margin-top: 7px;
+}
+#face-icon{
+  padding-left: 3px;
+  padding-top: 2px;
+}
+#camera-icon{
+  padding-left: 2px;
+  padding-top: 2px;
+}
+#youtube-icon{
+  padding-top: 2px;
 }
