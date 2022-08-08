@@ -470,11 +470,9 @@ svg {
 .frame-buttonk {
   /* Frame 1 */
 
-  position: absolute;
   width: 93px;
   height: 30px;
-  left: 856px;
-  top: 18px;
+
 
   background: linear-gradient(
     85.76deg,

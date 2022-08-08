@@ -121,9 +121,7 @@ svg {
   border: 0;
   padding: 0;
   background-color: transparent;
-  position: absolute;
-  top: 18px;
-  left: 856px;
+ 
   border-radius: 5px;
   background: linear-gradient(
     85.76deg,
@@ -136,14 +134,38 @@ svg {
   overflow: hidden;
 }
 
+.frame-buttonk-signin {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+ 
+  border-radius: 5px;
+  background: linear-gradient(
+    85.76deg,
+    rgba(191, 196, 238, 0.0945738) -105.02%,
+    #c367e6 10.94%,
+    rgba(190, 206, 239, 0) 121.57%
+  );
+  width: 93px;
+  height: 30px;
+  overflow: hidden;
+}
+.signin-signout-button{
+  position: absolute;
+  top: 18px;
+  left: 800px;
+  display: flex;
+  justify-content: space-evenly;
+  width: 224px;
+}
+
 .frame-buttonk {
   /* Frame 1 */
 
-  position: absolute;
+  
   width: 93px;
   height: 30px;
-  left: 856px;
-  top: 18px;
 
   background: linear-gradient(
     85.76deg,
@@ -153,31 +175,19 @@ svg {
   );
   border-radius: 5px;
 }
-.sign-in-b2 {
+.sign-in-b2-button {
   /* Sign in */
 
-  position: absolute;
   width: 33px;
   height: 13px;
-  left: 29px;
-  top: 8px;
+
 
   font-family: "Space Grotesk";
   font-style: normal;
   font-weight: 700;
-  font-size: 10px;
+  font-size: 12px;
   line-height: 13px;
   /* identical to box height */
 
   color: #e5e5e5;
-}
-.sign-in-b2 {
-  position: absolute;
-  top: 8px;
-  left: 29px;
-  font-size: 10px;
-  display: inline-block;
-  font-family: Space Grotesk;
-  color: #e5e5e5;
-  text-align: left;
 }
